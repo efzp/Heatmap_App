@@ -1,0 +1,12 @@
+name: HeatMap
+title: HeatMap
+username: efzp
+account: efzp
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11833464
+bundleId: 8527422
+url: https://efzp.shinyapps.io/HeatMap/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
